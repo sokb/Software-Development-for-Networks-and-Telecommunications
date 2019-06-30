@@ -1,7 +1,7 @@
 # Software Development for Networks and Telecommunications
 
 
-This is a project is a network developed to avoid car collisions/accidents on a road, by informing the drivers for potential dangers from the cars around them. The network is consisted of two android devices (which are considered as cars), an Edge Server, a Backhaul Server and a Database.
+This project is a network developed to avoid car collisions/accidents on a road, by informing the drivers for potential dangers from the cars around them. The network is consisted of two android devices (which are considered as cars), an Edge Server, a Backhaul Server and a Database.
 ![Network structure](https://raw.githubusercontent.com/sokb/Software-Development-for-Networks-and-Telecommunications/master/network_sructure.png?raw=true)
 ## Collaborators:
 * [Symela Komini](https://github.com/Symela)
